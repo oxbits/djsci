@@ -11,7 +11,7 @@ this `README` assumes general familiarity with `python`, `django` & `jupyter not
 
 this MVP framework was created using `python 3.10`
 
-install:
+install :
 ```
 pip install djsci
 
@@ -55,12 +55,12 @@ apply migrations for `djsci` :
 python ./manage.py migrate djsci
 ```
 
-run django dev server:
+run django dev server :
 ```
 python ./manage.py runserver
 ```
 
-login to the admin:
+login to the admin :
 ```
 http://127.0.0.1:8000/admin/
 ```
