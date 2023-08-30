@@ -184,4 +184,4 @@ secure and restrict access to uploaded files because they are run via the django
 
 running code from files not committed and merged through a peer review process in publicly accessible systems comes with significant risks that can be addressed and mitigated if handled correctly
 
-it is the goal of the project to directly address and put on the roadmap items related these concerns
+it is the goal of the project to directly address and put on the roadmap items related to these concerns
