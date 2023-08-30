@@ -114,7 +114,7 @@ you should see :
 
 # run a simple python file via django api :
 
-create a python file named `heyo_multiverse.py` with a function named `djsci_handler` in a cell :
+create a python file named `heyo_multiverse.py` with a function named `djsci_handler` :
 ```
 def djsci_handler(request):
     heyo_multiverse = 'heyo multiverse !!!! [python]'
